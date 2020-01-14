@@ -1,0 +1,4 @@
+LAYOUT RULES
+#For main layout we will use css grid layout technique.
+#Each component should be given position = relative so that elements inside that component.
+#Any layout which is suitable can be implemented inside the component.
